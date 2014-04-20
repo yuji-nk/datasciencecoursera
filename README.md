@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-repo for datasciencecoursera
+a repository for datasciencecoursera
